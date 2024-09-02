@@ -50,7 +50,7 @@ By the end of the course, students will be able to:
 
 # Including Code
 
-  # 3.1 Running R Code in a Code Chunk
+  #3.1 Running R Code in a Code Chunk
 
 ```{r}
 x <- 2 + 2
